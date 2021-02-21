@@ -1,0 +1,13 @@
+main:
+  - title: "Home"
+    url: /Home/
+  - title: "News"
+    url: /posts/
+  - title: "Brexit News"
+    url: /Brexit/
+  - title: "Useful Links"
+    url: /useful_links/
+  - title: "Examples"
+    url: /examples/
+  - title: "About"
+    url: /about/
