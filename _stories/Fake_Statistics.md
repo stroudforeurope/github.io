@@ -1,5 +1,5 @@
 ---
-title: Fake Trade Statisitics
+title: Fake Trade Statistics
 image_path: https://upload.wikimedia.org/wikipedia/commons/d/d1/AfghanBiscuit.jpg
 ---
 ## Another Phil Moorhouse Video
