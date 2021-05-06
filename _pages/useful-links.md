@@ -24,6 +24,7 @@ title: "Useful Links"
 
 [West Country Bylines](https://westcountrybylines.co.uk/)  
 [Yorkshire Bylines](https://yorkshirebylines.co.uk/)  
+Help for citizens wanting to move/travel regarding the red tape and limitations imposed by the Brexit deal. Practical information on EU residence and citizenship, with stories from across Europe. [Europe Street News] (https://europestreet.news/)
 
 # Related campaigns
 
