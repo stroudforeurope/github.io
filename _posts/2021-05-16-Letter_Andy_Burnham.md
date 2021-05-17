@@ -5,9 +5,9 @@ categories:
   - blog
 tags:
 ---
-## Greater Manchester mayor Andy Burnham has said the UK must "draw a line" under Brexit and instead focus on keeping the Union together [The New European](https://www.theneweuropean.co.uk/brexit-news/westminster-news/andy-burnham-on-embracing-brexit-7967260)
+## [The New European](https://www.theneweuropean.co.uk/brexit-news/westminster-news/andy-burnham-on-embracing-brexit-7967260) reported that the Greater Manchester mayor Andy Burnham has said the UK must "draw a line" under Brexit and instead focus on keeping the Union together 
 
-*Ginie Moss of Cheltenham4Europe has written to him:*
+*Ginie Moss of Cheltenham4Europe has written to him in response:*
 
 
 Dear Mr Burnham, 
