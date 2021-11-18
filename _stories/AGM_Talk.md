@@ -15,6 +15,6 @@ Clare's talk is prefaced by a tribute to Mark Huband who was a member of S4E's c
 
 The follow on question session can be viewed here:-
 
-<video  autoplay controls>
+<video  controls>
     <source src="{{ 127.0.0.1:4000/assets }}/assets/Clare_Questions.mp4" type="video/mp4">
 </video>
